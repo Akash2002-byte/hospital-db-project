@@ -8,9 +8,15 @@ Designed a scalable hospital database system using PostgreSQL to manage patients
 
 * 50K+ patient records
 * 100K+ appointment records
-* Real-world relational schema
+* Real-world relational schema with constraints
 * Query optimization using indexing
 * Performance analysis using EXPLAIN ANALYZE
+
+## ⚡ Performance Optimization
+
+* Added indexes on high-usage columns
+* Reduced query execution time significantly
+* Used EXPLAIN ANALYZE to identify bottlenecks
 
 ## 🧠 Tech Stack
 
@@ -19,7 +25,7 @@ Designed a scalable hospital database system using PostgreSQL to manage patients
 
 ## ⚡ Key Learning
 
-Understanding relational database design and performance optimization in healthcare systems.
+Learned database design, performance tuning, and query optimization for large-scale systems.
 
 ## 🔗 GitHub
 
