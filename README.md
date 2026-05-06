@@ -29,4 +29,4 @@ Learned database design, performance tuning, and query optimization for large-sc
 
 ## 🔗 GitHub
 
-(Add your repo link)
+(https://github.com/Akash2002-byte/hospital-db-project)
